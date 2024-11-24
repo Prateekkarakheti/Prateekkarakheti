@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prateekkarakheti
 - 👀 I’m interested in website development
-- 🌱 I’m currently learning js and react
+- 🌱 I’m instered in backend developer 
   
 
 <!---
